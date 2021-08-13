@@ -1,0 +1,16 @@
+{
+  "name": "YourGithubUsername/example-plugin",
+  "description": "",
+  "keywords": ["wordpress", "plugin"],
+  "homepage": "https://github.com/YourGitHubUsername/example-plugin",
+  "authors": [
+    {
+      "name": "Original Plugin Author's Name",
+      "homepage": "https://originalpluginurl.com"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=5.6"
+  }
+}
