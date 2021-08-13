@@ -1,12 +1,12 @@
 {
-  "name": "YourGithubUsername/example-plugin",
+  "name": "akhilmokariya/advanced-custom-fields-pro",
   "description": "",
   "keywords": ["wordpress", "plugin"],
-  "homepage": "https://github.com/YourGitHubUsername/example-plugin",
+  "homepage": "https://github.com/akhilmokariya/advanced-custom-fields-pro",
   "authors": [
     {
-      "name": "Original Plugin Author's Name",
-      "homepage": "https://originalpluginurl.com"
+      "name": "Advanced custom fields pro",
+      "homepage": "https://github.com/akhilmokariya/advanced-custom-fields-pro.git"
     }
   ],
   "type": "wordpress-plugin",
